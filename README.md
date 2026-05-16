@@ -132,13 +132,13 @@ let kapil = Engineer {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kapildev5262&show_icons=true&theme=transparent&hide_border=true&title_color=9945FF&text_color=E6EDF3&icon_color=14F195"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapildev5262&layout=compact&theme=transparent&hide_border=true&title_color=9945FF&text_color=E6EDF3"/>
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapildev5262&theme=radical&background=0D1117&border=30363D&ring=14F195&fire=9945FF&currStreakLabel=14F195" />
