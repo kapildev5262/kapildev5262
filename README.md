@@ -1,5 +1,11 @@
 # Hi, I'm Kapil Dev 👋
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&type=waving&height=200&color=0:9945FF,100:14F195&text=Kapil%20Dev&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+</div>
+
 **Solana Infrastructure & AI Engineer** · Building high-performance Rust systems on-chain
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-dev-b90629290)
