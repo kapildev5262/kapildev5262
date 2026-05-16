@@ -136,10 +136,14 @@ let kapil = Engineer {
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kapildev5262&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=30363D&icon_color=14F195&title_color=9945FF&text_color=E6EDF3&count_private=true&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapildev5262&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=9945FF&text_color=E6EDF3&hide_border=false&langs_count=8" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kapildev5262&show_icons=true&theme=radical&bg_color=0D1117&border_color=30363D&icon_color=14F195&title_color=9945FF&text_color=E6EDF3&hide_border=false&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapildev5262&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D&title_color=9945FF&text_color=E6EDF3&hide_border=false&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapildev5262&theme=radical&background=0D1117&border=30363D&ring=14F195&fire=9945FF&currStreakLabel=14F195" />
+</div>
 
 ---
 
