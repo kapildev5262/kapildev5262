@@ -2,7 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&type=waving&height=200&color=0:9945FF,100:14F195&text=Kapil%20Dev&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Kapil%20Dev&fontSize=50&fontColor=14F195&color=gradient&animation=fadeIn" width="100%" />
+
+<h3>Solana Infrastructure & AI Engineer</h3>
+
+</div>
 
 </div>
 
