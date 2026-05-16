@@ -1,23 +1,19 @@
-# Hi, I'm Kapil Dev 👋
-
-<div align="center">
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Kapil%20Dev&fontSize=50&fontColor=14F195&color=gradient&animation=fadeIn" width="100%" />
 
+<h1>Hi, I'm Kapil Dev 👋</h1>
+
 <h3>Solana Infrastructure & AI Engineer</h3>
 
-</div>
-
-</div>
-
-**Solana Infrastructure & AI Engineer** · Building high-performance Rust systems on-chain
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapil-dev-b90629290)
 [![Portfolio](https://img.shields.io/badge/Portfolio-14F195?style=flat&logo=vercel&logoColor=black)](https://kapildev5262-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kapildev5262@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/kapildev5262)
+
+</div>
 
 ---
 
@@ -57,19 +53,19 @@ let kapil = Engineer {
 >
 > `Rust` `Tokio` `Jito SDK` `Yellowstone gRPC` `Chainstack` `Prometheus`
 >
-> ⚠️ *Code private under client NDA — happy to discuss architecture, design decisions, and metrics in detail*
+> ⚠️ *Code private under client NDA — happy to discuss architecture, design decisions, and metrics*
 
 ---
 
 ### ⚡ [`yellowstone-grpc-solana-rust`](https://github.com/kapildev5262/yellowstone-grpc-solana-rust)
-> Production-ready Rust starter kit for Yellowstone gRPC — the clean template I built from my bot work. Account subscriptions, tx filtering, auto-reconnect with multi-provider failover, keepalive ping loop, Prometheus metrics. Works with Triton, Chainstack, Helius, Shyft, QuickNode.
+> Production-ready Rust starter kit for Yellowstone gRPC — account subscriptions, tx filtering, auto-reconnect with multi-provider failover, keepalive ping loop, Prometheus metrics. Works with Triton, Chainstack, Helius, Shyft, QuickNode.
 >
 > `Rust` `Tonic` `Prost` `Tokio` `gRPC`
 
 ---
 
 ### 🌉 [`Base-ICP-Bridge-with-Chain-Fusion`](https://github.com/kapildev5262/Base-ICP-Bridge-with-Chain-Fusion)
-> Cross-chain token bridge: Base (Ethereum L2) ↔ Internet Computer Protocol. Motoko canisters handle the ICP side; Solidity + multi-sig on Base; Node.js validator monitors and coordinates both chains.
+> Cross-chain token bridge: Base (Ethereum L2) ↔ Internet Computer Protocol. Motoko canisters on ICP side; Solidity + multi-sig on Base; Node.js validator coordinates both chains.
 >
 > `Motoko` `Solidity` `Hardhat` `Node.js` `ICP SDK` `Ethers.js`
 
@@ -83,14 +79,14 @@ let kapil = Engineer {
 ---
 
 ### ⭐ [`Stellar Cross-Border Payments`](https://github.com/kapildev5262/Private-Stellar-Cross-Border-Solution)
-> Enterprise Stellar network for B2B/B2C cross-border payments. Trustline management, custom asset creation, USDC routing, KYC/AML compliance hooks, microservices architecture.
+> Enterprise Stellar network for B2B/B2C cross-border payments. Trustline management, USDC routing, KYC/AML compliance hooks, microservices architecture.
 >
 > `Stellar SDK` `Horizon API` `Node.js` `React.js`
 
 ---
 
 ### 🌐 [`Token World — No-Code Token Deployer`](https://github.com/kapildev5262/token-world)
-> No-code ERC-20 and ERC-721 token deployment to any EVM chain — without writing Solidity. Guided UI for symbol, supply, and features. Multi-account batch distribution for airdrops.
+> No-code ERC-20 and ERC-721 deployment to any EVM chain — without writing Solidity. Multi-account batch distribution for airdrops.
 >
 > `Solidity` `Hardhat` `Ethers.js` `React.js` `ERC-20` `ERC-721`
 
@@ -159,12 +155,14 @@ let kapil = Engineer {
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kapildev5262&color=14F195&style=flat-square&label=Profile+Views" />
-</p>
-
-
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kapildev5262&color=14F195&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+
 <sub>Building on Solana, one sub-80ms bundle at a time 🟣</sub>
+
 </div>
