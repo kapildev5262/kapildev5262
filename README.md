@@ -13,6 +13,14 @@
 
 </div>
 
+<div align="center">
+
+<!-- Animated header banner via capsule-render -->
+<img src="https://vercel.app" width="100%"/>
+
+</div>
+
+
 <!-- Status pill row -->
 <div align="center">
   <img src="https://img.shields.io/badge/Status-SDE--1%20%40%20Calibraint-14F195?style=for-the-badge&logo=solana&logoColor=black" />
