@@ -147,6 +147,8 @@ let kapil = Engineer {
   <img src="https://komarev.com/ghpvc/?username=kapildev5262&color=14F195&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="center">
-  <sub>Building on Solana, one sub-80ms bundle at a time 🟣</sub>
-</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+<sub>Building on Solana, one sub-80ms bundle at a time 🟣</sub>
+</div>
