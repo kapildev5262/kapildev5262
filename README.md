@@ -29,7 +29,7 @@
 ```rust
 struct KapilDev {
     role:        "Solana Infrastructure & AI Engineer",
-    current:     "SDE-1 @ Calibraint Technologies, Noida",
+    current:     "SDE-1 @ Calibraint Technologies, Chennai",
     building:    ["High-speed Rust trading bots", "MEV infra with Jito bundles",
                   "AI-integrated on-chain agents", "DePIN systems"],
     background:  "B.Tech ECE — hardware thinking applied to blockchain",
