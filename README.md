@@ -13,13 +13,6 @@
 
 </div>
 
-<div align="center">
-
-<!-- Animated header banner via capsule-render -->
-<img src="https://vercel.app" width="100%"/>
-
-</div>
-
 
 <!-- Status pill row -->
 <div align="center">
